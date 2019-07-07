@@ -1,0 +1,14 @@
+person:
+  last-name: 起司
+  age: 12
+  boss: true
+  birth: 2019/07/07
+  maps: {a1: 12,a2: pp}
+  lists:
+    - 李四
+    - 张三
+  dog:
+    name: 旺旺
+    age: 2
+server:
+  port: 8088

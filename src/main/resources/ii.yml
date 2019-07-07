@@ -1,0 +1,12 @@
+person:    
+    last-name: rose
+    age: 18
+    boss: true
+    birth: 2019/07/06
+    maps: {a1: 12,a2: 13}
+    lists:
+      - jack
+      - rose
+    dog:
+      name: zhuzhu
+      age: 2
